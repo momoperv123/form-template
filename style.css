@@ -4,7 +4,6 @@
   --color-white: #f3f3f3;
   --color-darkblue: #1b1b32;
   --color-lightgray-alpha: rgba(120, 120, 120, 0.8);
-  --color-lighterblue: #4169e1;
 }
 
 *,
@@ -174,6 +173,6 @@ form {
 }
 
 .submit-button:hover {
-    background-color: var(--color-lighterblue);
+    background-color: #4169e1;
     transition: all .5s ease;
 }
